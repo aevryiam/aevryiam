@@ -1,9 +1,9 @@
 # Hi there! 👋
-I'm **Ilham Yusuf Wi'am**, a passionate developer from Indonesia 🚀.
+I'm **Ilham Yusuf Wi'am**, A first-year student majoring in Electrical Engineering at Universitas Gadjah Mada.
 
 ## 🔭 Current Projects
 - Frontend Developer at **PIONIR Gadjah Mada 2025**
-- Backend Developer at **FindIT UGM and Technocorner UGM** 🛠️
+- Backend Developer at **FindIT UGM 2025 and Technocorner UGM 2025**
 - Learning **Next.js & C++** 📖
 
 ## 🌱 Interests
@@ -21,4 +21,3 @@ I'm **Ilham Yusuf Wi'am**, a passionate developer from Indonesia 🚀.
 ![React](https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js)
 ![Express.js](https://img.shields.io/badge/Backend-Express.js-lightgrey?style=for-the-badge&logo=express)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-green?style=for-the-badge&logo=node.js)
