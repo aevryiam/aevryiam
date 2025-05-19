@@ -4,7 +4,7 @@ I'm **Ilham Yusuf Wi'am**, A first-year student majoring in Electrical Engineeri
 ## 🔭 Current Projects
 - Frontend Developer at **PIONIR Gadjah Mada 2025**
 - Backend Developer at **FindIT UGM 2025 and Technocorner UGM 2025**
-- Learning **Next.js & C++** 📖
+- Learning **Three.js** 📖
 
 ## 🌱 Interests
 - Web Development 🌐
