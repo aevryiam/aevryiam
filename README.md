@@ -1,8 +1,8 @@
 # Hi there! 👋
-I'm **Ilham Yusuf Wi'am**, A first-year student majoring in Electrical Engineering at Universitas Gadjah Mada.
+I'm **Ilham Yusuf Wi'am**, A second-year student majoring in Electrical Engineering at Universitas Gadjah Mada.
 
 ## 🔭 Current Projects
-- Frontend Developer at **PIONIR Gadjah Mada 2025**
+- Frontend Developer at **PIONIR Gadjah Mada 2025 and Porsenigama 2025**
 - Backend Developer at **FindIT UGM 2025 and Technocorner UGM 2025**
 - Learning **Three.js** 📖
 
