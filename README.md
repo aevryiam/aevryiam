@@ -6,6 +6,8 @@ https://yusufwiamportfolio.vercel.app/
 ## 🔭 Current Projects
 - Frontend Developer at **PIONIR Gadjah Mada 2025 and Porsenigama 2025**
 - Backend Developer at **FindIT UGM 2025 and Technocorner UGM 2025**
+- Project Manager at **Technocorner 2026**
+- Lead Backend at **FindIT 2026**
 - Learning **Three.js** 📖
 
 ## 🌱 Interests
