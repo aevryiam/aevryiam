@@ -8,6 +8,7 @@ https://yusufwiamportfolio.vercel.app/
 - Backend Developer at **FindIT UGM 2025 and Technocorner UGM 2025**
 - Project Manager at **Technocorner 2026**
 - Lead Backend at **FindIT 2026**
+- Lead Backend at **UGM Blockchain Club**
 - Learning **Three.js** 📖
 
 ## 🌱 Interests
