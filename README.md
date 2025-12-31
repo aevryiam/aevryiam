@@ -9,7 +9,7 @@ https://yusufwiamportfolio.vercel.app/
 - Project Manager at **Technocorner 2026**
 - Lead Backend at **FindIT 2026**
 - Lead Backend at **UGM Blockchain Club**
-- Learning **Three.js** 📖
+- Hackathonnnnn
 
 ## 🌱 Interests
 - Web Development 🌐
