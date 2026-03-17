@@ -21,9 +21,12 @@ https://yusufwiamportfolio.vercel.app/
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ilham-yusuf-wiam)
 - [![Instagram](https://img.shields.io/badge/Instagram-blue?logo=instagram)](https://instagram.com/aevryiam)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aevryiam&layout=compact&theme=dracula)
+# 📊 GitHub Stats:
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js)
-![Express.js](https://img.shields.io/badge/Backend-Express.js-lightgrey?style=for-the-badge&logo=express)
+![](https://github-readme-stats.vercel.app/api?username=aevryiam&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aevryiam&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aevryiam&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=aevryiam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
