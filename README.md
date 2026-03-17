@@ -28,4 +28,4 @@ https://yusufwiamportfolio.vercel.app/
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=aevryiam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aevryiam)](https://github.com/aevryiam/github-profile-trophy)
